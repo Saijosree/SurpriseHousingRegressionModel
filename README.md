@@ -22,20 +22,20 @@
 ## Conclusions
 - Optimal values of alpha for ridge and lasso regression are 1.0 and 0.0001 respectively
 - Top most predictors of Lasso
-	RoofMatl_ClyTile                             	
-	Condition2_PosN                
-	PoolQC_Gd                            
-	OverallQual_Excellent                     
-	OverallQual_Very Excellent                 
-	GrLivArea                               
+	- RoofMatl_ClyTile                             	
+	- Condition2_PosN                
+	- PoolQC_Gd                            
+	- OverallQual_Excellent                     
+	- OverallQual_Very Excellent                 
+	- GrLivArea                               
 
 - Five most predictors of Ridge
-	Condition2_PosN                                   
-	RoofMatl_ClyTile                          
-	PoolQC_Gd                                     
-	PoolQC_Ex                                               	
-	1stFlrSF                                                
-	GrLivArea   
+	- Condition2_PosN                                   
+	- RoofMatl_ClyTile                          
+	- PoolQC_Gd                                     
+	- PoolQC_Ex                                               	
+	- 1stFlrSF                                                
+	- GrLivArea   
 
 
 
